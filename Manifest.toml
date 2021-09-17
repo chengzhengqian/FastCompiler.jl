@@ -1,0 +1,26 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[CZQUtils]]
+deps = ["DelimitedFiles", "Sockets"]
+git-tree-sha1 = "e8127cfa884cce037cc3b3f3228fb8a51e072eec"
+repo-rev = "master"
+repo-url = "../CZQUtils"
+uuid = "5393979c-7b74-4d57-b1f9-20e1c4471d34"
+version = "0.1.0"
+
+[[DelimitedFiles]]
+deps = ["Mmap"]
+uuid = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+
+[[JITFunc]]
+git-tree-sha1 = "0d7fd2e8db3a1a83911b5cbba7580e7f122a671c"
+repo-rev = "master"
+repo-url = "../JITFunc"
+uuid = "c93d37db-b35c-416c-a43c-2441531e91a0"
+version = "0.1.0"
+
+[[Mmap]]
+uuid = "a63ad114-7e13-5084-954f-fe012c677804"
+
+[[Sockets]]
+uuid = "6462fe0b-24de-5631-8697-dd941f90decc"

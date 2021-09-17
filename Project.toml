@@ -1,0 +1,9 @@
+name = "FastCompiler"
+uuid = "20345ee7-6b55-4714-9f55-7a376ad17fff"
+authors = ["chengzhengqian-game <chengzhengqian@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CZQUtils = "5393979c-7b74-4d57-b1f9-20e1c4471d34"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+JITFunc = "c93d37db-b35c-416c-a43c-2441531e91a0"
